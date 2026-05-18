@@ -14,16 +14,17 @@ The main objectives of this project are:
   
 ## 📂 Dataset
 Dataset Used: Google Play Store Dataset
+
 Dataset Link:
 Google Play Store Dataset on Kaggle
 
 ## 🛠️ Technologies Used
-Python
-Jupyter Notebook
-Pandas
-NumPy
-Matplotlib
-Seaborn
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
 ## 📊 Analysis Performed
 The notebook includes analysis such as:
