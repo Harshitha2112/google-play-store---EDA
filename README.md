@@ -3,7 +3,7 @@
 This project performs Exploratory Data Analysis (EDA) on the Google Play Store dataset using Python.
 The analysis focuses on app categories, ratings, reviews, installs, pricing, and user trends to gain meaningful insights from Play Store applications.
 
-# 📌 Project Overview
+## 📌 Project Overview
 
 The main objectives of this project are:
 - Clean and preprocess Google Play Store data
@@ -12,12 +12,12 @@ The main objectives of this project are:
 - Visualize trends and relationships between app features
 - Generate insights from app data using charts and graphs
   
-# 📂 Dataset
+## 📂 Dataset
 Dataset Used: Google Play Store Dataset
 Dataset Link:
 Google Play Store Dataset on Kaggle
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 Python
 Jupyter Notebook
 Pandas
@@ -25,7 +25,7 @@ NumPy
 Matplotlib
 Seaborn
 
-# 📊 Analysis Performed
+## 📊 Analysis Performed
 The notebook includes analysis such as:
 - Data cleaning and preprocessing
 - Handling missing values
@@ -39,7 +39,7 @@ The notebook includes analysis such as:
 - App pricing analysis
 - Correlation analysis between variables
   
-# 📈 Visualizations
+## 📈 Visualizations
 Different visualizations are created to understand app trends:
 - Bar plots
 - Count plots
@@ -49,7 +49,7 @@ Different visualizations are created to understand app trends:
 - Heatmaps
 These visualizations help identify patterns and relationships in the dataset.
 
-# ▶️ How to Run the Project
+## ▶️ How to Run the Project
 1. Clone the repository
   git clone <repository-link>
 2. Install required libraries
@@ -64,21 +64,21 @@ These visualizations help identify patterns and relationships in the dataset.
 └── README.md
 ```
 
-# 📌 Key Insights
+## 📌 Key Insights
 - Free apps are more common than paid apps.
 - Some categories receive significantly higher installs.
 - Apps with better ratings generally receive more user engagement.
 - Certain app categories dominate the Play Store market.
 
-# 🚀 Future Improvements
+## 🚀 Future Improvements
 - Build an app recommendation system
 - Perform sentiment analysis on user reviews
 - Create an interactive dashboard using Streamlit or Plotly
 - Apply machine learning models for app rating prediction
 
-# 👩‍💻 Author
+## 👩‍💻 Author
 Harshitha U
 
-# ⭐ Conclusion
+## ⭐ Conclusion
 
 This project demonstrates how data analysis and visualization techniques can be applied to Google Play Store app data to uncover meaningful trends, patterns, and business insights.
