@@ -58,12 +58,7 @@ These visualizations help identify patterns and relationships in the dataset.
 3. Open the notebook
   jupyter notebook Google_playstore.ipynb
 4. Run all cells
-```
-📁 Project Structure
-├── Google_playstore.ipynb
-├── googleplaystore.csv
-└── README.md
-```
+
 
 ## 📌 Key Insights
 - Free apps are more common than paid apps.
